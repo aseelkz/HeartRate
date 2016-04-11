@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeartRate</string>
+    <string name="welcome">Welcome to the calculator. Enter your age to calculate your target and maximum heart rates.</string>
+    <string name="warning">These estimations are based on information from the American Heart Association. Please note that these estimates may vary depending on health factors.</string>
+</resources>
